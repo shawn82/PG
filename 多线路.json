@@ -11,11 +11,15 @@
         {
             "url": "https://gitee.com/okjack/okk/raw/master/op.txt",
             "name": "🚀┃OK线路"
-        },  
+        }, 
         {
             "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
             "name": "🚀┃PG线路"
-        },                                                                            
+        },
+        /*{
+            "url": "https://git.acwing.com/iduoduo/orange/-/raw/main/jsm.json",
+            "name": "🚀┃PG线路"
+        },*/                                                                            
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀┃道长线路"
