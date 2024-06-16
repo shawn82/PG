@@ -16,7 +16,8 @@
             "name": "NO视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "playerType": "2",
+           "playerType": "2",
+             "jar":"./lib/XBPQ.jar", 
             "ext": {
                 "请求头": "手机",
                 "主页url": "https://www.dgjiawu.com/",
@@ -37,8 +38,7 @@
                 "倒序": "0",
                 "分类": "电影$5738#电视剧$5749#动漫$5767#综艺$5758#你懂的$5748",
                 "分类url": "https://www.dgjiawu.com/mo-1zxgt/{cateId}/1/0/0/0/0/{catePg}[https://www.dgjiawu.com/mo-1zxgt/{cateId}/1];;RC"
-            }，
-        "jar":"./lib/XBPQ.jar"
+            }
 		},
 		{
 			"key":"Youtube",
