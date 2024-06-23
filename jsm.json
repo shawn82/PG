@@ -68,7 +68,11 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"./lib/tokenm.json"
+			"ext":"./lib/tokenm.json",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
 		{"key":"PushShare","name":"我的资源分享","type":3, "api":"csp_PushShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/pushshare.txt$$$db$$$1",
@@ -159,7 +163,7 @@
 				"ratio": 1.1
 			}
 		},
-		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./lib/wogg.json"},
+		{"key":"Wogg","name":"玩偶哥哥|网盘","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wogg.link/$$$noproxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wo4k","name":"玩偶4K|磁力","type":3,"api":"csp_Wo4k","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"Wobg","name":"玩偶表哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./lib/wogg.json"},
 		{"key":"yydsys","name":"玩你老哥|网盘","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$https://tv.yydsys.top/$$$proxy$$$1$$$./lib/wogg.json"},
@@ -368,7 +372,7 @@
 			"name": "🧲 4小白磁力🧲 |XBPQ",
 			"type": 3,
 			"api": "csp_XBPQ",
-			"playerType": 1,
+			
 			"jar": "./lib/XBPQ.jar",
 			"ext": {
 				"主页url": "https://www.xbw20.com/",
@@ -831,7 +835,7 @@
 				"name": "live.ipv6",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://fanmingming.com/txt?url=https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-				"playerType": 1,
+				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -840,7 +844,7 @@
 				"name": "live.ipv6.m3u",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://live.fanmingming.com/tv/m3u/ipv6.m3u",
-				"playerType": 1,
+				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -849,7 +853,7 @@
 				"name": "live.ipv6.local",
 				"type": 0,
 				"url": "./lib/live.ipv6.txt",
-				"playerType": 1,
+				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -858,7 +862,7 @@
 				"name": "live.fan",
 				"type": 0,
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/dxawi/0/main/tvlive.txt",
-				"playerType": 1,
+				
 				"ua": "okhttp/3.15",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -866,13 +870,13 @@
 			{
 				"name": "YTLive",
 				"type": 0,
-				"playerType": 1,
+				
 				"url": "./lib/yo21.txt"
 			},
 			{
 				"name": "直播",
 				"type": 0,
-				"playerType": 1,
+				
 				"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
@@ -880,7 +884,7 @@
 			{
 				"name": "TXT",
 				"type": 0,
-				"playerType": 1,
+				
 				"url": "http://home.jundie.top:81/Cat/tv/live.txt",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -889,7 +893,7 @@
 			{
 				"name": "Json",
 				"type": 1,
-				"playerType": 1,
+				
 				"url": "http://127.0.0.1:10079/p/0/proxy/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
 				"logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png",
@@ -898,7 +902,7 @@
 			{
 				"name": "live.feimao",
 				"type": 0,
-				"playerType": 1,
+				
 				"url": "http://127.0.0.1:10079/p/0/proxy/http://我不是.肥猫.live/TV/tvzb.txt",
 				"ua": "okhttp/3.12.13",
 				"epg": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/?ch={name}&date={date}",
