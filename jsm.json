@@ -30,7 +30,8 @@
 			"style": {
 				"type": "rect",
 				"ratio": 1.5
-			}
+			}, 
+			"jar": "./yt.jar"
 		},
 		{
             "key": "NO视频",
