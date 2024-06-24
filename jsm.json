@@ -831,6 +831,7 @@
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
+	"logo": "https://qu.ax/orgc.gif",
 		"lives":[
 			{
 				"name": "live.ipv6",
