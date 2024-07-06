@@ -1,5 +1,6 @@
 {
 	"spider":"./pg.jar",
+	  "logo": "https://gh-proxy.com/https://github.com/Vivo-Max/PG/raw/main/animation.gif",
 	"sites":[
 		{
 			"key":"Youtube",
