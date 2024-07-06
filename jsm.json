@@ -1,5 +1,7 @@
 {
 	"spider":"./pg.jar",
+	"wallpaper": "https://深色壁纸.xxooo.cf/",
+	"logo":"http://temp.3vkj.club/90acb18662d25b7b6469d5010258c8c4.gif",
 	"sites":[
 		{
 			"key":"Youtube",
@@ -789,7 +791,6 @@
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
-	"logo":"http://temp.3vkj.club/90acb18662d25b7b6469d5010258c8c4.gif",
 		"lives":[
 			{
 				"name": "live.ipv6",
