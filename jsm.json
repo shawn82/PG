@@ -1,6 +1,5 @@
 {
 	"spider":"./pg.jar",
-	  "logo": "https://github.com/Vivo-Max/PG/raw/main/Screenshot_2024_0625_005412.gif",
 	"sites":[
 		{
 			"key":"Youtube",
@@ -790,6 +789,7 @@
 			"changeable": 0,
 			"ext": "https://fm.t4tv.hz.cz/json/market.json"
 		}],
+	"logo":"http://temp.3vkj.club/90acb18662d25b7b6469d5010258c8c4.gif",
 		"lives":[
 			{
 				"name": "live.ipv6",
