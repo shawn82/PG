@@ -452,7 +452,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    //三方玖妖收藏合
     {
       "key": "影图",
       "name": "影图",
@@ -510,7 +509,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "飞鱼影视",
       "name": "飞鱼影视",
       "type": 1,
@@ -526,7 +525,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    //{
+    {
       "key": "晓峰影视",
       "name": "晓峰影视",
       "type": 1,
@@ -550,7 +549,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    #18+{
+    {
       "key": "🔞美少女资源",
       "name": "🔞美少女资源",
       "type": 0,
@@ -662,7 +661,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "🔞大雕资源",
       "name": "🔞大雕资源",
       "type": 1,
@@ -694,7 +693,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "🔞水帘洞资源",
       "name": "🔞水帘洞资源",
       "type": 1,
@@ -766,7 +765,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "🔞淫人妻资源",
       "name": "🔞淫人妻资源",
       "type": 1,
@@ -774,7 +773,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "🔞小处女资源",
       "name": "🔞小处女资源",
       "type": 1,
@@ -926,7 +925,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    //{
+    {
       "key": "🔞99资源吧",
       "name": "🔞99资源吧",
       "type": 1,
@@ -2429,5 +2428,4 @@
     "tj.tianwenhu.com",
     "xg.gars57.cn",
     "k.jinxiuzhilv.com",
-    "cdn.bootcss.com",
-    "ppl.xunzhuo123.com"
+    "cdn.bootcss.com"
